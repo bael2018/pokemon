@@ -656,6 +656,10 @@ main{
     .card{
         height: 320px;
     }
+
+    .single_title{
+        margin-top: 50px;
+    }
 }
 
 @media screen and (max-width: 600px){
@@ -685,12 +689,16 @@ main{
     }
 
     .single_picture{
-        width: 80%;
+        width: 90%;
         height: 400px;
     }
 }
 
 @media screen and (max-width: 500px){
+
+    .single_title{
+        margin-top: 80px;
+    }
 
     .container{
         margin-top: 650px;
