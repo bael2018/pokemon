@@ -758,6 +758,10 @@ main{
         margin-top: 750px;
     }
 
+    .header_child ul li input{
+        width: 210px;
+    }
+
     .card{
         height: 310px;
         width: 90%;
