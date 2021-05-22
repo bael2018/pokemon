@@ -515,9 +515,17 @@ main{
     .single_child_alt1{
         width: 45%;
     }
+
+    .container{
+        margin-top: 250px;
+    }
 }
 
 @media screen and (max-width: 1000px){
+
+    .container{
+        margin-top: 300px;
+    }
 
     .card{
         width: 40%;
@@ -569,6 +577,10 @@ main{
 
 @media screen and (max-width: 900px){
 
+    .container{
+        margin-top: 350px;
+    }
+
     .single_child_alt2 ul{
         flex-direction: column;
         width: 80%;
@@ -597,6 +609,10 @@ main{
 
 @media screen and (max-width: 750px){
 
+    .container{
+        margin-top: 550px;
+    }
+
     .card{
         height: 270px;
     }
@@ -614,10 +630,6 @@ main{
         height: 350px;
     }
     
-    main{
-        margin-top: 360px;
-    }
-
     .single_child_alt2 h2 span{
         font-size: 45px;
     }
@@ -648,6 +660,10 @@ main{
 
 @media screen and (max-width: 600px){
 
+    .container{
+        margin-top: 600px;
+    }
+
     .card{
         height: 300px;
     }
@@ -676,6 +692,10 @@ main{
 
 @media screen and (max-width: 500px){
 
+    .container{
+        margin-top: 650px;
+    }
+
     .card{
         height: 300px;
         width: 70%;
@@ -692,6 +712,10 @@ main{
 }
 
 @media screen and (max-width: 450px){
+
+    .container{
+        margin-top: 690px;
+    }
 
     .card{
         height: 310px;
@@ -721,6 +745,10 @@ main{
 }
 
 @media screen and (max-width: 410px){
+
+    .container{
+        margin-top: 750px;
+    }
 
     .card{
         height: 310px;
